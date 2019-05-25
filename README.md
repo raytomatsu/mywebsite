@@ -105,7 +105,7 @@
 		<img src="img/c++.png" class = "imgresize2">
 		<h3>C++</h3>
 	</div>
-	<div class="col-xs 12 cols-sm-6 col-md-4">
+	<div class="col-xs 12 cols-sm-6 ">
 		<img src="img/java-logo.png" class="imgresize2">
 		<h3>Java</h3>
 	</div> 
