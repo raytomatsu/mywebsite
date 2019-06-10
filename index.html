@@ -55,8 +55,6 @@
 		<div class="carousel-caption">
 			<h1 class="display-2">Ray Tomatsu</h1>
 			<h3>Lafayette College Student</h3>
-			<button type="button" class="btn btn-outline-light btn-lg">VIEWDEMO</button>
-			<button type ="button" class= "btn btn-primary btn-lg">Get Started</button>
 		</div>
 	</div>
 	<div class="carousel-item">
