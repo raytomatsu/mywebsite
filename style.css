@@ -21,9 +21,9 @@ html, body{
 }
 .imgresize2{
 
-  max-width: 35%;
-  max-height: 35%;  
-  padding-bottom:50px;
+  max-width: 50%;
+  max-height: 50%;  
+  padding-bottom:65px;
 }
 .carousel-caption{
     position: absolute;
@@ -51,6 +51,15 @@ html, body{
     background-color: #563d7c;
   border: 1px solid #563d7c;
 }
+.project{
+  font-size:150%;
+  font-family:'Poppins';
+}
+
+.links{
+  font-size:50%;
+}
+
 .jumbotron{
   padding: 2rem;
   border-radius: 0;
@@ -76,7 +85,7 @@ html, body{
   color:#2163af;
 }
 .fa-code,.fa-bold, .fa-css3 {
-    font-size:4em;
+    font-size:5em;
     margin: 1em;
 }
 .social a{
@@ -197,6 +206,7 @@ Large (lg) devices (desktops, 992px and up)
 Extra (xl) large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) { ... }
 */
+
 
 
 
