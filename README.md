@@ -118,16 +118,46 @@
 
 <!--- Two Column Section -->
 <div class="container-fluid padding">
-<div class="rowpadding">
-	<div class="col-md-12 col-lg-6">
-		<h2>Working Progress</h2>
-		<p>Working Progress</p>
-		<br>
-		<a href="#" class="btn btn-primary">Learn More</a>
+<h2>Selected Projects</h2>
+<div class="container-fluid padding">
+<div class="row text-center padding">
+		<div class = "col-xs-12 col-sm-6 col-md-4">
+		<p class ="project">Hive Simulation and Monitorying (C++)</p>
+		<p class = "lead">
+
+			•	Created a Bee Hive Simulation and Monitoring System for the company Circle of Bees.  
+			<br>
+•	Included a GUI that allowed the user to navigate through our program, display charts to visualize their specific bee hive activity, and configure their own bee hive for simulation.
+			<br>  
+•	Used SQLite database to store the Hive information as well as acquired them out of the data base when necessary.  
+			<br>
+•	Wrote an algorithm that generated UDP messages and decodes them to monitor Bee Activity.  
+</p>
 	</div>
-	<div class="col-lg-6">
-		<img src="img/marioyoshi.jpg" class="imgresize">
-	</div>
+	<div class="col-xs 12 cols-sm-6 col-md-4">
+		<p class ="project">Amusement Park Configuration (Java)</p>
+		<p class="lead">
+			•	Designed a simulation to determine the optimal combination of features for an amusement park using Java and Object Oriented Programming.
+			<br>
+•	Wrote an algorithm in which park had rides of different types and each ride had its own attractiveness, length of time and other features.  
+			<br>
+•	The data structures used were arrays and array lists.  
+			<br>
+•	Implemented a configuration file to determine the kinds of rides and the amount of them.
+			<br> 
+•	Unit Tested all methods and constructors.  
+		</p>
+	</div> 
+	<div class="col-sm-12 col-md-4">		
+		<p class ="project">Created A Simulator and Primitive Debugger for An MC6502 Processor (C)</p>
+		<p class = "lead">
+			•	Able to create a debugger for an MCS6502 assembler with an input from a binary file.  
+			<br>
+•	Implemented assembly op codes for the MCS6502 so that the debugger will be able to simulate the processor.
+
+		</p>
+	</div> 
+		
 </div>
 </div>
 
@@ -141,7 +171,7 @@
 </figure>
 
 <!--- Emoji Section -->
-<button clas="fun" data-toggle="collapse" data-target="#emoji">Click for fun!
+<button class="fun" data-toggle="collapse" data-target="#emoji">Click for fun!
 </button>
 <div id="emoji" class= "collapse">
 <div class="container-fluid padding">
